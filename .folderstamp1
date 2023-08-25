@@ -1,0 +1,62 @@
+This folder: /media/daniella/B/git/Gamlr/The PFP DAO
+
+  File: ./BATH
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 4176625     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-24 01:03:43.634636800 -0300
+Modify: 2023-08-20 19:47:28.572664100 -0300
+Change: 2023-08-20 19:47:28.572664100 -0300
+ Birth: 2023-07-31 14:30:13.770060200 -0300
+IPFS hash: 
+------------------------------
+  File: ./Brotatoes
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 4176766     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-24 01:03:43.499872300 -0300
+Modify: 2023-07-31 18:29:35.221921000 -0300
+Change: 2023-07-31 18:29:35.221921000 -0300
+ Birth: 2023-07-31 18:29:07.427634700 -0300
+IPFS hash: 
+------------------------------
+  File: ./&DAO
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 4186860     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-24 01:03:43.434536900 -0300
+Modify: 2023-08-13 16:06:12.460756400 -0300
+Change: 2023-08-13 16:06:12.460756400 -0300
+ Birth: 2023-08-13 15:30:46.206100600 -0300
+IPFS hash: 
+------------------------------
+  File: ./icon.png
+  Size: 32638     	Blocks: 64         IO Block: 4096   regular file
+Device: 8,20	Inode: 4186336     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 02:29:02.796627200 -0300
+Modify: 2023-08-24 01:03:53.353997500 -0300
+Change: 2023-08-24 01:03:53.353997500 -0300
+ Birth: 2023-08-24 01:03:53.255455800 -0300
+IPFS hash: QmWwFFDhtgTA21GBzuP9JwjRu9RXRcK4WTpbYyLxMpBgUz
+------------------------------
+  File: ./Presentation.pptx
+  Size: 35454     	Blocks: 72         IO Block: 4096   regular file
+Device: 8,20	Inode: 4189967     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-24 01:09:33.711107700 -0300
+Modify: 2023-08-24 01:04:06.437659400 -0300
+Change: 2023-08-24 01:04:06.495366100 -0300
+ Birth: 2023-08-24 01:04:06.373897600 -0300
+IPFS hash: QmVJ4tg58WiDEqGJpbUTLVG7RDNozniSjHyTur31M3W4sL
+------------------------------
+  File: ./Tasks.txt
+  Size: 125       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 4186641     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-24 23:01:29.310356800 -0300
+Modify: 2023-08-13 20:17:20.506032800 -0300
+Change: 2023-08-13 20:17:20.830400400 -0300
+ Birth: 2023-08-13 20:17:20.504825800 -0300
+IPFS hash: QmP9YiSp8HggmEujEdjKiCFHQdogWM9t67srGs83ePb4LQ
+------------------------------
